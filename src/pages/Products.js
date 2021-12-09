@@ -1,13 +1,12 @@
 
-  
-// import React from 'react';
+import React from 'react';
 
-// function Products() {
-//   return (
-//     <div className='products'>
-//       <h1>Products</h1>
-//     </div>
-//   );
-// }
+const Products = () => {
+    return (
+        <div>
+            <h1>Products</h1>
+        </div>
+    );
+};
 
-// export default Products;
+export default Products;
